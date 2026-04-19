@@ -78,3 +78,8 @@ The dashboard follows a **Star Schema** design.
 ## Dashboard Screenshot 
 <img width="1282" height="797" alt="sss" src="https://github.com/user-attachments/assets/97084477-9405-469f-9f84-8e89d8b7ea5f" />
 
+----
+
+### Power BI Dashboard Link
+https://app.powerbi.com/links/x9h1o7YAmn?ctid=a42efbf0-5f2e-424f-9ef4-e3d53a97a782&pbi_source=linkShare
+
